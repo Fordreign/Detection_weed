@@ -18,6 +18,7 @@
 Таким образом, данный процесс помогает автоматизировать и улучшить борьбу с сорняками.
 
 P.S. Модель детектирования - YOLOv8
+
 Данные для обучения [WeedCrop Image Dataset](http://https://www.kaggle.com/datasets/vinayakshanawad/weedcrop-image-dataset)
 
 
