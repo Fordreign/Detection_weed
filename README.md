@@ -17,7 +17,7 @@
 
 P.S. Модель детектирования - YOLOv8
 Данные для обучения [WeedCrop Image Dataset](http://https://www.kaggle.com/datasets/vinayakshanawad/weedcrop-image-dataset)
-![Посевы](https://storage.googleapis.com/kaggle-datasets-images/2307840/3883792/ab12ef9d9680e02e8dc55a0b49aa91fa/dataset-cover.jpg?t=2022-06-30-11-38-03)
+[![Посевы](https://storage.googleapis.com/kaggle-datasets-images/2307840/3883792/ab12ef9d9680e02e8dc55a0b49aa91fa/dataset-cover.jpg?t=2022-06-30-11-38-03)](https://storage.googleapis.com/kaggle-datasets-images/2307840/3883792/ab12ef9d9680e02e8dc55a0b49aa91fa/dataset-cover.jpg?t=2022-06-30-11-38-03)
 
 
 @software{yolov8_ultralytics,
