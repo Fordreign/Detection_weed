@@ -17,7 +17,7 @@
 
 Таким образом, данный процесс помогает автоматизировать и улучшить борьбу с сорняками.
 
-P.S. Модель детектирования - YOLOv8
+P.S. Модель детектирования - [YOLOv8](https://docs.ultralytics.com/models/yolov8)
 
 Данные для обучения [WeedCrop Image Dataset](http://https://www.kaggle.com/datasets/vinayakshanawad/weedcrop-image-dataset)
 
