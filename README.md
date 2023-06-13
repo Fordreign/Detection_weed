@@ -17,11 +17,17 @@
 
 Таким образом, данный процесс помогает автоматизировать и улучшить борьбу с сорняками.
 
-P.S. Модель детектирования - [YOLOv8](https://docs.ultralytics.com/models/yolov8)
+Модель детектирования - [YOLOv8](https://docs.ultralytics.com/models/yolov8)
 
 Данные для обучения [WeedCrop Image Dataset](http://https://www.kaggle.com/datasets/vinayakshanawad/weedcrop-image-dataset)
 
+Посмотрим , как проявит себя модель на пару тестовых изображениях.
 
+
+![Test_image_1](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/1630ad32-eb17-4e18-9df2-c31803577a9d)
+![Test_image_2](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/3600ec59-2313-468b-be4e-4e6883ffc84e)
+
+P.S. Отдельная благодарность за код разработчикам модели.
 @software{yolov8_ultralytics,
   author       = {Glenn Jocher and Ayush Chaurasia and Jing Qiu},
   title        = {YOLO by Ultralytics},
