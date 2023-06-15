@@ -23,10 +23,9 @@ Telegram: @Detection_weedBot
 Данные для обучения [WeedCrop Image Dataset](http://https://www.kaggle.com/datasets/vinayakshanawad/weedcrop-image-dataset)
 
 Посмотрим , как проявит себя модель на пару тестовых изображениях.
+weed - сорняк
+crop - посев
 
-
-![Test_image_1](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/1630ad32-eb17-4e18-9df2-c31803577a9d)
-![Test_image_2](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/3600ec59-2313-468b-be4e-4e6883ffc84e)
 ![Test_image_1](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/0c8a62de-bf36-406d-8227-f34ea453215f)
 ![Test_image_2](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/02c0e766-1dca-4fe8-89e7-2f268c9efa78)
 
