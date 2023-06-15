@@ -27,6 +27,8 @@ Telegram: @Detection_weedBot
 
 ![Test_image_1](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/1630ad32-eb17-4e18-9df2-c31803577a9d)
 ![Test_image_2](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/3600ec59-2313-468b-be4e-4e6883ffc84e)
+![Test_image_1](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/0c8a62de-bf36-406d-8227-f34ea453215f)
+![Test_image_2](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/02c0e766-1dca-4fe8-89e7-2f268c9efa78)
 
 Как видно, модель проявляет отличную способность к детектированию сорняков. Однако, для достижения ещё более точных результатов, рекомендуется настраивать модель под конкретный тип растений, который вы хотите анализировать.
 В интернете можно найти помеченные изображения с различными агрокультурами и даже сорняками, доступные в открытом доступе. Использование таких наборов данных позволит улучшить работу модели и адаптировать её к вашим потребностям.
