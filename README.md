@@ -21,7 +21,8 @@ Telegram: @Detection_weedBot
 Модель детектирования - [YOLOv8x](https://docs.ultralytics.com/models/yolov8)
 
 Данные для обучения: 
-[WeedCrop Image Dataset](http://https://www.kaggle.com/datasets/vinayakshanawad/weedcrop-image-dataset)
+
+[WeedCrop Image Dataset](http://https://www.kaggle.com/datasets/vinayakshanawad/weedcrop-image-dataset),
 
 [crop and weed detection data with bounding boxes](https://www.kaggle.com/datasets/ravirajsinh45/crop-and-weed-detection-data-with-bounding-boxes?select=classes.txt)
 
