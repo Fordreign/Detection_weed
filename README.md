@@ -22,9 +22,9 @@ Telegram: @Detection_weedBot
 
 Данные для обучения: 
 
-[WeedCrop Image Dataset](http://https://www.kaggle.com/datasets/vinayakshanawad/weedcrop-image-dataset),
+1. [WeedCrop Image Dataset](http://https://www.kaggle.com/datasets/vinayakshanawad/weedcrop-image-dataset),
 
-[crop and weed detection data with bounding boxes](https://www.kaggle.com/datasets/ravirajsinh45/crop-and-weed-detection-data-with-bounding-boxes?select=classes.txt)
+2. [crop and weed detection data with bounding boxes](https://www.kaggle.com/datasets/ravirajsinh45/crop-and-weed-detection-data-with-bounding-boxes?select=classes.txt)
 
 Посмотрим , как проявит себя модель на пару тестовых изображениях.
 
@@ -56,9 +56,12 @@ crop and weed detection data with bounding boxes - 1300 images
 
 Реализация телеграм-бота - bot.py
 
-P.S. Можно настроить бота на детекцию сорняков на видео(я уже реализовал аналогичный бот, который детектирует все обьекты, можете его скопировать , он находится в общем доступе на моем гитхабе) и даже трекинг, но целесообразно уже встроить данный инструмент в ОП БПЛА.
+P.S. Также можно настроиить бота, чтобы он классифицировал тип растения, возраст, вес, состояние и тп. объект внутри бокса.
+Еще можно настроить на детекцию сорняков на видео(я уже реализовал аналогичный бот, который детектирует все обьекты, можете его скопировать , он находится в общем доступе на моем гитхабе) и даже трекинг, но мне ,кажется, целесообразно уже встроить данный инструмент в ОП БПЛА.
 
-P.S.S. Отдельная благодарность разработчикам модели!
+P.S.S. Обучение модели шло в таком порядке в котором указаны номера train, после каждого обучения на данных бралась лучшая модель "best.pt", после она дообучалась на следующем по номеру датасете(номера датасетов, это их последовательность в упоминании).
+
+P.S.S.S. Отдельная благодарность разработчикам модели!
 
 @software{yolov8_ultralytics,
   author       = {Glenn Jocher and Ayush Chaurasia and Jing Qiu},
