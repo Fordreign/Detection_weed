@@ -34,8 +34,8 @@ crop - посев
 
 WeedCrop Image Dataset - 2822 images
 
-![Test_image_1](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/0c8a62de-bf36-406d-8227-f34ea453215f)
-![Test_image_2](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/02c0e766-1dca-4fe8-89e7-2f268c9efa78)
+![train_1_test_image](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/0c8a62de-bf36-406d-8227-f34ea453215f)
+
 
 crop and weed detection data with bounding boxes - 1300 images
 
