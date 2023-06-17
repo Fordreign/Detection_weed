@@ -2,5 +2,7 @@
 
 Кривые Precision , Recall их комбинация, также F1-мера
 
-![R_curve](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/692c28da-f725-4a49-83b4-48c896e9fede)![P_curve](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/9151fd9d-5aef-4dd2-9a71-966341e60de2)
-![F1_curve](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/4ed6ded2-ee2e-4eff-ab05-2ef00c60d8fd))![PR_curve](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/48cb86ec-2d9b-4e95-882f-1003d422a5a8)
+<p float="left">
+  <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/692c28da-f725-4a49-83b4-48c896e9fede" width="400" />
+  <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/9151fd9d-5aef-4dd2-9a71-966341e60de2" width="400" /> 
+</p>
