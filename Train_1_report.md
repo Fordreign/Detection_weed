@@ -1,4 +1,4 @@
-После 100 эпох обучения мы получили такие графики метрик и функций потерь.
+После 100 эпох обучения на [WeedCrop Image Dataset](http://https://www.kaggle.com/datasets/vinayakshanawad/weedcrop-image-dataset), мы получили такие графики метрик и функций потерь.
 
 **Кривые Precision , Recall и их комбинация, также F1-мера**
 
