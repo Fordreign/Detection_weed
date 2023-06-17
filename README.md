@@ -28,24 +28,9 @@ Telegram: @Detection_weedBot
 
 Посмотрим , как проявит себя модель на пару тестовых изображениях.
 
-weed - сорняк
-
-crop - посев
-<style>
-    .word-pair {
-        display: flex;
-        flex-direction: row;
-        margin: 0;
-        padding: 0;
-    }
-    
-    .word-pair span {
-        margin-right: 10px;
-    }
-</style>
-
 <div class="word-pair">
     <span>weed - сорняк</span>
+    
     <span>crop - посев</span>
 </div>
 
