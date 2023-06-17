@@ -14,20 +14,20 @@
 
 Функции потерь:
 
-Tain
-
-<p float="middle">
-  <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/1d13b2e8-9e68-4bcd-add8-64373f373250" width="500" lendth=500 />
-  <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/3b557610-aa7f-41da-8a27-27da84b31080" width="500" lendth=500 /> 
-  <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/c8d8d674-adab-415a-b182-061be90e9898" width="500" lendth=500 /> 
+<p float="left">
+  <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/a6b53d23-0d62-4b14-a858-3da426ce5d6b" width="500" lendth=500 />
+  <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/6a508a9d-5c1a-416d-a008-c92fb8dce5a0" width="500" lendth=500 /> 
 </p>
 
-Valid
-
-<p float="middle">
-  <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/1d13b2e8-9e68-4bcd-add8-64373f373250" width="500" lendth=500 />
-  <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/3b557610-aa7f-41da-8a27-27da84b31080" width="500" lendth=500 /> 
-  <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/c8d8d674-adab-415a-b182-061be90e9898" width="500" lendth=500 /> 
+<p float="left">
+  <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/8ed06366-684b-46fd-be95-8f8c18a9652e" width="500" lendth=500 />
+  <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/213409b3-4344-4655-9572-70993f413c0c" width="500" lendth=500 /> 
 </p>
+
+<p float="left">
+  <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/470d765e-d37f-49ba-b051-a0db3fbfaeab" width="500" lendth=500 />
+  <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/04e14b6c-c091-43c6-92a7-c15b4790352e" width="500" lendth=500 /> 
+</p>
+
 
 P.S. Аннотации к метрикам и функциям потерь уточняйте на Tech_description.
