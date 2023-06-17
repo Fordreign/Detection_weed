@@ -25,7 +25,7 @@
 
 <p float="left">
   <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/8ed06366-684b-46fd-be95-8f8c18a9652e" width="500" lendth=500 />
-  <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/213409b3-4344-4655-9572-70993f413c0c" width="500" lendth=500 /> 
+  <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/e4e668c5-0aaf-42b0-ad11-049521649574="500" lendth=500 /> 
 </p>
 
 "Dual Focal Loss (dfl)"
