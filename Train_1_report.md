@@ -8,8 +8,6 @@
 </p>
 
 <p float="left">
-  <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/4b3bd155-ced1-4f88-b82c-5950b6b67d46
-" width="500" lendth=500 />
-  <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/6e7e69cd-4a85-4fd0-af5b-27dd6f60b31b
-" width="500" lendth=500 /> 
+  <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/4b3bd155-ced1-4f88-b82c-5950b6b67d46" width="500" lendth=500 />
+  <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/6e7e69cd-4a85-4fd0-af5b-27dd6f60b31b" width="500" lendth=500 /> 
 </p>
