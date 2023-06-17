@@ -2,7 +2,8 @@
 
 *Модель*
 
-Итак, для решение задачи бралась новейшая и "лучшая" модель YOLOv8 :
+Итак, для решение задачи бралась новейшая и "лучшая" модель YOLOv8 на момент проекта:
 
 ![image](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/629b0624-b97b-4c95-b554-2bb1239eaef0)
+картинка взята из (ресурса)[https://github.com/ultralytics/ultralytics/issues/189]
 
