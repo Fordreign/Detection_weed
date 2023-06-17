@@ -1,6 +1,6 @@
 После 100 эпох обучения мы получили такие графики метрик и функций потерь.
 
-Кривые Precision , Recall их комбинация, также F1-мера
+Кривые Precision , Recall и их комбинация, также F1-мера
 
 <p float="left">
   <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/692c28da-f725-4a49-83b4-48c896e9fede" width="500" lendth=500 />
@@ -12,3 +12,4 @@
   <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/6e7e69cd-4a85-4fd0-af5b-27dd6f60b31b" width="500" lendth=500 /> 
 </p>
 
+![train_box_loss](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/1d13b2e8-9e68-4bcd-add8-64373f373250)
