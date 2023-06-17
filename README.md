@@ -52,7 +52,7 @@ crop and weed detection data with bounding boxes - 1300 images
 
 В этом репозитории я описываю: 
 
-Тех. описание модели и данных - Tech_description
+Тех. описание модели и данных, алгоритм обучения - Tech_description
 
 Обучение модель на данных - Train_№_yolov8x
 
