@@ -52,7 +52,7 @@
 
 <p float="middle">
   <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/ae9b1cf7-ef03-4050-a6a5-06383406fbe5" width="500" lendth=500 />
-  <img src="" width="500" lendth=500 />
+  <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/145a90ff-d4a7-4f35-9acc-ee45de40a3aa" width="500" lendth=500 />
 </p>
 
 *Вывод:*
