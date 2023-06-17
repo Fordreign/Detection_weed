@@ -47,4 +47,11 @@
   <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/5f59f3e9-b13e-41d9-bebe-ab0744d5f55a" width="500" lendth=500 /> 
 </p>
 
+**Проверка детектора на тестовом изображении:**
+
+<p float="middle">
+  <img src="" width="500" lendth=500 />
+
+*Вывод:*
+
 P.S. Аннотации к метрикам и функциям потерь уточняйте в Tech_description.md 
