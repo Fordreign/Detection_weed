@@ -47,6 +47,4 @@
   <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/5f59f3e9-b13e-41d9-bebe-ab0744d5f55a" width="500" lendth=500 /> 
 </p>
 
-![image](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/5b340ca6-2d53-4665-88ff-8e479096ed65)
-
 P.S. Аннотации к метрикам и функциям потерь уточняйте в Tech_description.md 
