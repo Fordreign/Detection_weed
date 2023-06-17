@@ -28,8 +28,7 @@ Telegram: @Detection_weedBot
 
 Посмотрим , как проявит себя модель на пару тестовых изображениях.
 
-weed - сорняк            crop - посев
-
+weed - сорняк &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; crop - посев
 
 WeedCrop Image Dataset - 2822 images
 
