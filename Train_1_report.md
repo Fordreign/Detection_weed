@@ -35,5 +35,18 @@
   <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/04e14b6c-c091-43c6-92a7-c15b4790352e" width="500" lendth=500 /> 
 </p>
 
+Метрики:
+
+<p float="left">
+  <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/5b340ca6-2d53-4665-88ff-8e479096ed65" width="500" lendth=500 />
+  <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/261b75eb-8c96-4f5f-a9ba-df7bb576e3e2" width="500" lendth=500 /> 
+</p>
+
+<p float="left">
+  <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/4f2e5407-b9b1-4d67-b2f5-efb9ae536ad4" width="500" lendth=500 />
+  <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/5f59f3e9-b13e-41d9-bebe-ab0744d5f55a" width="500" lendth=500 /> 
+</p>
+
+![image](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/5b340ca6-2d53-4665-88ff-8e479096ed65)
 
 P.S. Аннотации к метрикам и функциям потерь уточняйте в Tech_description.md 
