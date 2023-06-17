@@ -1,4 +1,4 @@
-После 100 эпох обучения мы получили такие графики метрик и функций потерь.
+![result](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/5e4dfeaa-0bcd-4533-8dec-64bc313e010e)После 100 эпох обучения мы получили такие графики метрик и функций потерь.
 
 **Кривые Precision , Recall и их комбинация, также F1-мера**
 
@@ -49,8 +49,11 @@
 
 **Проверка детектора на тестовом изображении:**
 
+
 <p float="middle">
+  <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/ae9b1cf7-ef03-4050-a6a5-06383406fbe5" width="500" lendth=500 />
   <img src="" width="500" lendth=500 />
+</p>
 
 *Вывод:*
 
