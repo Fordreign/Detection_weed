@@ -12,4 +12,16 @@
   <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/6e7e69cd-4a85-4fd0-af5b-27dd6f60b31b" width="500" lendth=500 /> 
 </p>
 
-![train_box_loss](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/1d13b2e8-9e68-4bcd-add8-64373f373250)
+Функции потерь:
+
+Tain
+
+<p float="left">
+  <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/1d13b2e8-9e68-4bcd-add8-64373f373250" width="500" lendth=500 />
+  <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/c8d8d674-adab-415a-b182-061be90e9898" width="500" lendth=500 /> 
+  <img src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/3b557610-aa7f-41da-8a27-27da84b31080" width="500" lendth=500 /> 
+</p>
+
+
+
+P.S. Аннотации к метрикам и функциям потерь уточняйте на Tech_description.
