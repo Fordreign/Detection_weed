@@ -18,24 +18,12 @@ Telegram: @Detection_weedBot
 
 Таким образом, данный процесс помогает автоматизировать и улучшить борьбу с сорняками.
 
-Модель детектирования - [YOLOv8x](https://docs.ultralytics.com/models/yolov8)
-
-Данные для обучения: 
-
-1. [WeedCrop Image Dataset](http://https://www.kaggle.com/datasets/vinayakshanawad/weedcrop-image-dataset)
-
-2. [crop and weed detection data with bounding boxes](https://www.kaggle.com/datasets/ravirajsinh45/crop-and-weed-detection-data-with-bounding-boxes?select=classes.txt)
 
 Посмотрим , как проявит себя модель на пару тестовых изображениях.
-
-weed - сорняк &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; crop - посев
 
 WeedCrop Image Dataset - 2822 images
 
 ![](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/0c8a62de-bf36-406d-8227-f34ea453215f)
-
-
-crop and weed detection data with bounding boxes - 1300 images
 
 Как видно, модель проявляет отличную способность к детектированию сорняков. Однако, для достижения ещё более точных результатов, рекомендуется настраивать модель под конкретный тип растений, который вы хотите анализировать.
 В интернете можно найти помеченные изображения с различными агрокультурами и даже сорняками, доступные в открытом доступе. Использование таких наборов данных позволит улучшить работу модели и адаптировать её к вашим потребностям.
@@ -48,7 +36,17 @@ crop and weed detection data with bounding boxes - 1300 images
 
 Данная комбинация БПЛА и телеграм-бота предоставляет удобный инструмент для автоматизации процесса обнаружения сорняков и мониторинга сельскохозяйственных угодий, а также для получения важной аналитической информации для принятия управленческих решений.обы он возращал нам важную информацию такую как на кол-во сорняков, кол-во и затрат химикатов и т.д. 
 
-**В этом репозитории я описываю:** 
+**Аннотация:** 
+
+weed - сорняк &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; crop - посев
+
+Модель детектирования - [YOLOv8x](https://docs.ultralytics.com/models/yolov8)
+
+Данные для обучения: 
+
+1. [WeedCrop Image Dataset](https://www.kaggle.com/datasets/vinayakshanawad/weedcrop-image-dataset)
+
+2. 
 
 Tech_description.md - Тех. описание модели, данных, алгоритм обучения, метрик , фукнкций потерь и т.д.
 
