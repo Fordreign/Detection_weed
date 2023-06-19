@@ -51,7 +51,7 @@ weed - сорняк &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; crop - посев
 
 1. [WeedCrop Image Dataset](https://www.kaggle.com/datasets/vinayakshanawad/weedcrop-image-dataset)
 
-2. 
+2. [LincoInBeet](https://datasets.activeloop.ai/docs/ml/datasets/lincolnbeet-dataset/#lincoinbeet-dataset)
 
 Tech_description.md - Тех. описание модели, данных, алгоритм обучения, метрик , фукнкций потерь и т.д.
 
@@ -72,3 +72,14 @@ bot.py - Реализация телеграм-бота
   orcid        = {0000-0001-5950-6979, 0000-0002-7603-6750, 0000-0003-3783-7069},
   license      = {AGPL-3.0}
 }
+
+@article{salazar2021towards,
+  title={Towards practical object detection for weed spraying
+  in precision agriculture},
+  author={Salazar-Gomez, Adrian and Darbyshire, Madeleine and Gao,
+  Junfeng and Sklar, Elizabeth I and Parsons, Simon},
+  journal={arXiv preprint arXiv:2109.11048},
+  year={2021}
+}
+
+
