@@ -20,7 +20,7 @@ Telegram: @Detection_weedBot
 
 Посмотрим , как проявит себя обученная модель на пару тестовых изображениях.
 
-WeedCrop Image Dataset - 2822 images
+WeedCrop Image Dataset
 
 ![](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/0c8a62de-bf36-406d-8227-f34ea453215f)
 
