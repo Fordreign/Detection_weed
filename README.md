@@ -54,11 +54,11 @@ weed - сорняк &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; crop - посев
 
 2. [LincoInBeet](https://datasets.activeloop.ai/docs/ml/datasets/lincolnbeet-dataset/#lincoinbeet-dataset)
 
-Tech_description.md - Тех. описание модели, данных, алгоритм обучения, метрик , фукнкций потерь и т.д.
+Tech_description.md - Тех. описание модели, данных, метрик и т.п.
 
-Train_№_yolov8x - Обучение модель на данных
+Train_№_yolov8x - Обучение модели на данных
 
-Train_№_report - Графики метрик и функции потерь
+Train_№_report - Графики метрик и функций потерь
 
 bot.py - Реализация телеграм-бота
 
@@ -82,5 +82,3 @@ bot.py - Реализация телеграм-бота
   journal={arXiv preprint arXiv:2109.11048},
   year={2021}
 }
-
-
