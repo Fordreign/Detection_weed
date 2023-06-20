@@ -16,14 +16,14 @@
 
 **IoU**
 
-![image](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/2566506e-debb-4648-8656-33bb9bf1beed)
-
+![image](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/2dbfcd8d-265c-4a34-8b9c-d60373a902bf)
+[resource](https://pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/)
 
 Чтобы определить точность, нам нужно определить истинно положительные и ложно положительные результаты для обнаружения объектов. Истинно положительный результат определяется, когда IoU между предсказанной рамкой и истинной рамкой больше заданного порога IoU, тогда как ложно положительный результат имеет IoU ниже этого порога. Затем точность может быть определена как tp/(tp + fp).
 
 ![image](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/f56e950b-25ec-4e4d-a3f7-136211a5c231)
 
-images from [resource](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/f56e950b-25ec-4e4d-a3f7-136211a5c231)
+[resource](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/f56e950b-25ec-4e4d-a3f7-136211a5c231)
 
 Для вычисления среднего среднего значения точности (mAP) мы выполняем следующие шаги:
 
@@ -35,8 +35,11 @@ images from [resource](https://github.com/Fordreign/Tg_bot_detection_weed/assets
 Усредняем средние точности (AP) для всех классов, чтобы получить mAP50-95.
 Таким образом, mAP50-95 представляет собой среднюю точность по всем классам на интервале порогов IoU от 0,5 до 0,95 с шагом 0,05.
 
-![image](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/380187e8-b9c4-4d15-ad9d-63aec2df9262)
 
-[resource](https://blog.roboflow.com/mean-average-precision)
+![image](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/978cd121-7b7f-4123-9b4a-09ee5ffd9659)
 
-![image](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/3a6da4e2-2fdd-45c9-82aa-873f350685c7){:width="300px"}
+[resource]([x](https://blog.roboflow.com/mean-average-precision/))
+
+Дальше для каждого класса считаем усредненный mAP.
+
+![image](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/3a6da4e2-2fdd-45c9-82aa-873f350685c7)
