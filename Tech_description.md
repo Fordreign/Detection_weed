@@ -35,7 +35,7 @@
 * Усредняем средние точности (AP) для всех классов, чтобы получить mAP50-95.
 * Таким образом, mAP50-95 представляет собой среднюю точность по всем классам на интервале порогов IoU от 0,5 до 0,95 с шагом 0,05.
 
-
+![image](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/37625b1f-6cc6-44b3-91da-125411a0664f.gif)
 <video src="https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/37625b1f-6cc6-44b3-91da-125411a0664f" controls></video>
 [resource]([x](https://blog.roboflow.com/mean-average-precision/))
 
