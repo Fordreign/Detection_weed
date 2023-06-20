@@ -1,5 +1,7 @@
 Для начала хотелось бы поблагодарить ребят из [ultralytics](https://github.com/ultralytics) за открытый код и готовое решение с встроенным API.
 # Модель
+![image](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/629b0624-b97b-4c95-b554-2bb1239eaef0)[ресурс](https://github.com/ultralytics/ultralytics/issues/189)
+
 YOLOv8 состоит из двух основных компонентов:
 
 Bottleneck (Основа):
@@ -12,10 +14,11 @@ Head (Голова):
 
 Голова в YOLOv8 отвечает за вывод предсказаний объектов на основе обработанных признаков из предыдущих модулей.
 Она состоит из одной головы вывода (output head), которая предсказывает координаты ограничивающих рамок, вероятности классов и оценки уверенности (confidence scores), то есть 
-<img src="https://github.com/Fordreign/Detection_weed/assets/69246960/c3354205-d384-4bd7-ac24-6aa1dcb4be18" class="center">
+<p float="midle">
+  <img src="https://github.com/Fordreign/Detection_weed/assets/69246960/c3354205-d384-4bd7-ac24-6aa1dcb4be18" width="500" lendth=500 /> 
+</p>
 Голова использует механизм анкерных рамок (anchor boxes), который представляет собой предопределенные рамки с фиксированными размерами и соотношениями сторон. Модель предсказывает координаты анкерных рамок и корректирует их, чтобы точно соответствовать объекту на изображении.
 
-![image](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/629b0624-b97b-4c95-b554-2bb1239eaef0)картинка взята из [ресурса](https://github.com/ultralytics/ultralytics/issues/189)
 # Метрики
 **IoU**
 
