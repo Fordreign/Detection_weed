@@ -14,11 +14,8 @@
 
 # Метрики
 
-**mAP **
-
-Среднее среднее значение точности (mAP) является одним из наиболее используемых метрик для оценки обнаружения объектов. mAP вычисляет среднюю точность (AP) по всем классам и вычисляет их при предварительно заданном пороге IoU (пересечение/объединение).
-
 **IoU**
+
 ![image](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/2566506e-debb-4648-8656-33bb9bf1beed)
 
 
@@ -37,3 +34,9 @@ images from [resource](https://github.com/Fordreign/Tg_bot_detection_weed/assets
 Повторяем шаги 3-4 для каждого класса в наборе данных.
 Усредняем средние точности (AP) для всех классов, чтобы получить mAP50-95.
 Таким образом, mAP50-95 представляет собой среднюю точность по всем классам на интервале порогов IoU от 0,5 до 0,95 с шагом 0,05.
+
+![image](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/380187e8-b9c4-4d15-ad9d-63aec2df9262)
+
+[resource](https://blog.roboflow.com/mean-average-precision)
+
+![image](https://github.com/Fordreign/Tg_bot_detection_weed/assets/69246960/3a6da4e2-2fdd-45c9-82aa-873f350685c7){:width="300px"}
