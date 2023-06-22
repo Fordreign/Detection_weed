@@ -56,9 +56,9 @@ weed - сорняк &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; crop - посев
 
 Tech_description.md - Тех. описание модели, данных, метрик и т.п.
 
-Train_№_yolov8x - Обучение модели на данных
+Train_model - Обучение модели на данных (№ эксперимента)
 
-Train_№_report - Графики метрик и функций потерь
+Train_model_report - Графики метрик и функций потерь
 
 bot.py - Реализация телеграм-бота
 
