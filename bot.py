@@ -37,6 +37,7 @@ def handle_photo(message):
         img = cv2.imdecode(np.frombuffer(file_stream, np.uint8), -1)
         res = Model(img)
         res_plotted = res[0].plot()
+        res_plotted = cv2.cvtColor(res_plotted, cv2.COLOR_BGR2RGB)
 
         image_bytes = BytesIO()
         Image.fromarray(res_plotted).save(image_bytes, format='JPEG')
